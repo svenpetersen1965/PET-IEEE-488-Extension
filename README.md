@@ -23,3 +23,10 @@ In this configuration, only the bottom part of the case is installed.
 
 <img src="https://github.com/svenpetersen1965/PET-IEEE-488-Extension/blob/main/Riser/Rev.%200/pictures/5260_-_Riser_on_CentronicsBase_case.JPG" width="300" alt="with Case">
 
+This is the base board with an edge connector:
+
+<img src="https://github.com/svenpetersen1965/PET-IEEE-488-Extension/blob/main/Base/Rev.%200/pictures/5178_-_IEEE_Ext_Base.JPG" width="300" alt="base with edge connector">
+
+Serving as an easy adapter for a DIY ribbon cable.
+
+<img src="https://github.com/svenpetersen1965/PET-IEEE-488-Extension/blob/main/Base/Rev.%200/pictures/7912_IEEEetx_ribbon.JPG" width="300" alt="base with edge connector">
